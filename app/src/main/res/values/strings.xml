@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Desepenho Educacional</string>
+    <string name="mais">Acionar uma materia</string>
+    <string name="perf">Suas preferências</string>
+    <string name="deta">Detalhes</string>
+    <string name="pul"><b>PULAR</b></string>
+</resources>
